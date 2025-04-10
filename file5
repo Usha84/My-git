@@ -1,0 +1,11 @@
+crfeate a new file
+add contents into the file
+save and quit from the file
+add the file from wrking area to staging area
+git add filename
+commit the file from staging area to local repo
+using git commit filename -m "any msg related to file"
+check the file status using git status
+history
+touch file6
+
