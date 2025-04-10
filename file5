@@ -8,4 +8,4 @@ using git commit filename -m "any msg related to file"
 check the file status using git status
 history
 touch file6
-
+all files committed
