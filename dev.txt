@@ -1,0 +1,9 @@
+devops is software practice or culture for faster integration, testing and deployment
+it involves various tools
+git for versioning
+maven for build nd test
+jenkins for ci, cd
+docker for image generation
+sonarquebe for code quality
+k8s for deployemnt
+
