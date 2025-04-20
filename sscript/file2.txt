@@ -1,0 +1,9 @@
+echo "welcome to USA, trump zone"
+echo "Amazon web services"
+echo "number of shells avialable in linux are:"
+cat /etc/shells
+
+echo  "default shell is:"$SHELL
+echo "today date and time is:" $DATE
+echo "thank you!"
+
